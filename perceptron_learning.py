@@ -27,6 +27,7 @@ ax.scatter(-1,-1,-1)
 plt.show()
 
 #perceptron learning
+#If using in colab try to change the cells to avoid errors
 
 import numpy as np
 import pandas as pd
