@@ -1,8 +1,4 @@
 
-"""perceptron learning.ipynb
-   https://colab.research.google.com/drive/1suFJLKci0Rijb1DdoGM-z82kEZyfp_N0
-"""
-
 #plotting all eight 3d points using matplotlib
 
 import matplotlib.pyplot as plt
